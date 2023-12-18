@@ -1,0 +1,120 @@
+<?xml version="1.0" ?>
+<manifest identifier="SVL_1021118" version="1.2" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+	<metadata>
+		<schema>ADL SCORM</schema>
+		<schemaversion>1.2</schemaversion>
+		<lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1">
+			<general>
+				<title>
+					<langstring><![CDATA[Inclusive Mindset: Stupid Stuff Smart People Say]]></langstring>
+				</title>
+				<catalogentry>
+					<catalog>BizLibrary</catalog>
+					<entry>
+						<langstring>SVL_1021118</langstring>
+					</entry>
+				</catalogentry>
+				<language>enUS</language>
+				<description>
+					<langstring><![CDATA[Welcome to “Inclusive Mindset: Stupid Stuff Smart People say,” a video lesson that differentiates between positive intent and positive impact. This lesson is the ninth of 16 in the “Expert Insights: Inclusive Mindset with Justin Jones-Fosu” video course, which is meant to help you authentically embrace diversity and inclusion. During this lesson, you’ll learn that there’s a difference between intent and impact and that good intentions don’t excuse or minimize negative impact or potential consequences. In addition, this lesson encourages you to try to give good even when you receive negative.]]></langstring>
+				</description>
+				<aggregationlevel>
+					<source>
+						<langstring xml:lang="x-none">LOMv1.0</langstring>
+					</source>
+					<value>
+						<langstring xml:lang="x-none">3</langstring>
+					</value>
+				</aggregationlevel>
+			</general>
+			<metametadata>
+				<contribute>
+					<role>
+						<source>
+							<langstring xml:lang="x-none">LOMv1.0</langstring>
+						</source>
+						<value>
+							<langstring xml:lang="x-none">Creator</langstring>
+						</value>
+					</role>
+					<centity>
+						<vcard>
+							Begin:vcard
+							Fn:BizLibrary
+							End:vcard
+						</vcard>
+					</centity>
+				</contribute>
+				<metadatascheme>ADL SCORM 1.2</metadatascheme>
+				<language>enUS</language>
+			</metametadata>
+			<technical>
+				<format>text/html</format>
+				<location type="URI">content.html?</location>
+				<duration>
+					<datetime>0000:07:00</datetime>
+				</duration>
+			</technical>
+			<educational>
+				<typicallearningtime>
+					<datetime>0000:07:00</datetime>
+				</typicallearningtime>
+				<intendedenduserrole>
+					<source>
+						<langstring xml:lang="x-none">LOMv1.0</langstring>
+					</source>
+					<value>
+						<langstring xml:lang="x-none">Learner</langstring>
+					</value>
+				</intendedenduserrole>
+			</educational>
+			<rights>
+				<cost>
+					<source>
+						<langstring xml:lang="x-none">LOMv1.0</langstring>
+					</source>
+					<value>
+						<langstring xml:lang="x-none">no</langstring>
+					</value>
+				</cost>
+				<copyrightandotherrestrictions>
+					<source>
+						<langstring xml:lang="x-none">LOMv1.0</langstring>
+					</source>
+					<value>
+						<langstring xml:lang="x-none">yes</langstring>
+					</value>
+				</copyrightandotherrestrictions>
+				<description>
+					<langstring>Copyright BizLibrary 2015</langstring>
+				</description>
+			</rights>
+			<classification>
+				<purpose>
+					<source>
+						<langstring xml:lang="x-none">LOMv1.0</langstring>
+					</source>
+					<value>
+						<langstring xml:lang="x-none">Educational Objective</langstring>
+					</value>
+				</purpose>
+				<description>
+					<langstring><![CDATA[Inclusive Mindset: Stupid Stuff Smart People Say]]></langstring>
+				</description>
+			</classification>
+		</lom>
+	</metadata>
+	<organizations default="default">
+		<organization identifier="default">
+			<title><![CDATA[Inclusive Mindset: Stupid Stuff Smart People Say]]></title>
+			<item identifier="courseitem" identifierref="res_SVL_1021118">
+				<title><![CDATA[Inclusive Mindset: Stupid Stuff Smart People Say]]></title>
+			</item>
+		</organization>
+	</organizations>
+	<resources>
+		<resource type="webcontent" adlcp:scormtype="sco" href="content.html?" identifier="res_SVL_1021118">
+			<file href="content.html?" />
+		</resource>
+	</resources>
+</manifest>
